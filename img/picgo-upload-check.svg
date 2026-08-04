@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="140" viewBox="0 0 560 140">
+  <rect width="560" height="140" rx="16" fill="#0f172a"/>
+  <circle cx="70" cy="70" r="36" fill="#22c55e"/>
+  <path d="m52 70 12 12 25-28" fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="124" y="62" fill="#fff" font-family="Segoe UI, sans-serif" font-size="26" font-weight="700">PicGo upload works</text>
+  <text x="124" y="96" fill="#94a3b8" font-family="Segoe UI, sans-serif" font-size="18">GitHub + jsDelivr</text>
+</svg>
